@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AntdButton" parent="Widget.AppCompat.Button.Colored">
+        <!--<item name="android:background">?ant_themeColorPrimaryDark</item>-->
+        <!--<item name="android:background">@drawable/rounded_shape</item>-->
+        <item name="android:padding">8dp</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AntdTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="ant_themeColorPrimary">?ant_themeColorPrimary</item>
+        <item name="ant_themeColorPrimaryDark">?ant_themeColorPrimaryDark</item>
+        <item name="ant_themeColorAccent">?ant_themeColorAccent</item>
+    </style>
+    <style name="AntdTheme.Default">
+        <item name="ant_themeColorPrimary">@color/antd_primary</item>
+        <item name="ant_themeColorPrimaryDark">@color/antd_primary_dark</item>
+        <item name="ant_themeColorAccent">@color/antd_accent</item>
+    </style>
+</resources>

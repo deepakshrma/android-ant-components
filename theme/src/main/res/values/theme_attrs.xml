@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ant_themeColorPrimary" format="reference"/>
+    <attr name="ant_themeColorPrimaryDark" format="reference"/>
+    <attr name="ant_themeColorAccent" format="reference"/>
+</resources>
